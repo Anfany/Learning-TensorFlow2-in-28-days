@@ -2,4 +2,4 @@
 
 
 
-+ **0天： Windows下Anaconda、Python3.7、TensorFlow2、JupyterNotebook环境的搭建**
++ **0天： [Windows下Anaconda、Python3.7、TensorFlow2、JupyterNotebook环境的搭建](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/0.md)**
