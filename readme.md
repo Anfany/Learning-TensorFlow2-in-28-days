@@ -11,3 +11,6 @@
 + **第3天： [张量的自动求导机制](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/3_tensor_derivative.ipynb)**
 
 + **第4天： [TensorFlow2建立模型的三种方式之Sequential API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/4_tf.keras_model_Sequential.ipynb)**
+
++ **第5天： [TensorFlow2建立模型的三种方式之Function API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/5_tf.keras_model_Functionl.ipynb)**
+
