@@ -14,7 +14,7 @@
 
 + **第5天： [TensorFlow2建立模型的三种方式之Function API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/5_tf.keras_model_Functionl.ipynb)**
 
-+ **第6天： [TensorFlow2建立模型的三种方式之Model Subclassing](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/6_tf.keras_model_subclassing.ipynb)**
++ **第6天： [TensorFlow2建立模型的三种方式之Model Subclassing](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/6_tf.keras_model_subclassing.ipynb)**
 
 + **第7天： [TensorFlow2构建数据管道—Numpy array格式](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/7_tf.data_numpy.ipynb)**
 
