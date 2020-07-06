@@ -12,7 +12,7 @@
 
 + **第4天： [TensorFlow2建立模型的三种方式之Sequential API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/4_tf.keras_model_Sequential.ipynb)**
 
-+ **第5天： [TensorFlow2建立模型的三种方式之Function API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/5_tf.keras_model_Functionl.ipynb)**
++ **第5天： [TensorFlow2建立模型的三种方式之Functional API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/5_tf.keras_model_Functionl.ipynb)**
 
 + **第6天： [TensorFlow2建立模型的三种方式之Model Subclassing](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/6_tf.keras_model_subclassing.ipynb)**
 
