@@ -18,3 +18,5 @@
 
 + **第7天： [TensorFlow2构建数据管道—Numpy array格式](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/7_tf.data_numpy.ipynb)**
 
++ **第8天： [TensorFlow2构建数据管道—Pandas DataFrame格式](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/8_tf.data_pandas.ipynb)**
+
