@@ -24,5 +24,5 @@
 
 + **第10天： [TensorFlow2项目实战—基于迭代的图像风格迁移](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/10_style_transfer_iter.ipynb)**
 
-+ **第11天： [TensorFlow2项目实战—快速图像风格迁移]()**
++ **第11天： TensorFlow2项目实战—快速图像风格迁移**
 
