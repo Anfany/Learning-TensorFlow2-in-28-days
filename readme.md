@@ -26,3 +26,7 @@
 
 + **第11天： [TensorFlow2项目实战—快速图像风格迁移](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/11_fast_style_transfer.ipynb)**
 
++ **第12天： [TensorFlow2项目实战—时间序列预测之LSTM、GRU](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/12_LSTM_GRU.ipynb)**
+
++ **第13天： [TensorFlow2项目实战—时间序列预测之TCN](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/13_TCN.ipynb)**
+
