@@ -4,7 +4,7 @@
 
 + **第0天： [Windows下Anaconda、Python3.7、TensorFlow2、JupyterNotebook环境的搭建](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/0.md)**
 
-### **基础**
+### **基础：张量**
 
 + **第1天： [张量(Tensor：TensorFlow2基本数据结构)](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/1_tensor.ipynb)**
 
@@ -12,7 +12,7 @@
 
 + **第3天： [张量的自动求导机制](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/3_tensor_derivative.ipynb)**
 
-### **建立模型**
+### **建立模型的三种方式**
 
 + **第4天： [Sequential API](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/4_tf.keras_model_Sequential.ipynb)**
 
@@ -30,7 +30,7 @@
 
 ### **项目实战**
 
-#### **1，风格迁移**
+#### **1，图像风格迁移**
 
 + **第10天： [基于迭代的图像风格迁移](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/10_style_transfer_iter.ipynb)**
 
@@ -40,5 +40,5 @@
 
 + **第12天： [LSTM、GRU](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/12_LSTM_GRU.ipynb)**
 
-+ **第13天： [CNN-RNN、TCN](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/13_TCN.ipynb)**
++ **第13天： [CNN-RNN、TCN](https://github.com/Anfany/Learning-TensorFlow2-in-28-days/blob/master/13_CNN_RNN-TCN.ipynb)**
 
